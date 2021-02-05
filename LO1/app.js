@@ -1,2 +1,0 @@
-// Display
-alert("Hello, World!");
